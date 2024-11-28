@@ -1,0 +1,14 @@
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\bin\Debug\net8.0\OficinaDeSeguros.exe
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\bin\Debug\net8.0\OficinaDeSeguros.deps.json
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\bin\Debug\net8.0\OficinaDeSeguros.runtimeconfig.json
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\bin\Debug\net8.0\OficinaDeSeguros.dll
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\bin\Debug\net8.0\OficinaDeSeguros.pdb
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\OficinaDeSeguros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\OficinaDeSeguros.AssemblyInfoInputs.cache
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\OficinaDeSeguros.AssemblyInfo.cs
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\OficinaDeSeguros.csproj.CoreCompileInputs.cache
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\OficinaDeSeguros.dll
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\refint\OficinaDeSeguros.dll
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\OficinaDeSeguros.pdb
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\OficinaDeSeguros.genruntimeconfig.cache
+C:\Users\AxXeP\source\repos\OficinaDeSeguros\OficinaDeSeguros\obj\Debug\net8.0\ref\OficinaDeSeguros.dll
